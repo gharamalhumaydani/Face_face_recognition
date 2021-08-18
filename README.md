@@ -30,6 +30,8 @@ Result
 
 When running the code 
 
+![2021-08-18 (2) png](https://user-images.githubusercontent.com/86461558/129837386-128eb798-75a6-4f7f-8e01-af242bb99a77.png)
+
 
 
 
